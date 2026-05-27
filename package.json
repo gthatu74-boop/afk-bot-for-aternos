@@ -1,12 +1,12 @@
 {
-  "name": "afkbot",
+  "name": "opkiller3",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "krushna06",
+  "author": "opkiller3333",
   "license": "ISC",
   "dependencies": {
     "config": "^3.3.3",
